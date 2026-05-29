@@ -59,15 +59,18 @@ Key points:
 
 ## TABULATION 
 
-<img width="1101" height="1598" alt="WhatsApp Image 2026-05-26 at 9 09 08 AM" src="https://github.com/user-attachments/assets/c8d855a9-9630-4096-9b57-d1b96ec731d1" />
+<img width="1061" height="1586" alt="WhatsApp Image 2026-05-29 at 10 23 50 AM" src="https://github.com/user-attachments/assets/97664114-b265-4c1a-a887-bc1202a227fe" />
+
 
 ---
 
 ## MODEL GRAPH
 
-<img width="1086" height="1365" alt="WhatsApp Image 2026-05-26 at 9 09 06 AM" src="https://github.com/user-attachments/assets/4e049e95-b09a-4d5b-b5ed-f29909bbf8a1" />
+<img width="1347" height="1599" alt="WhatsApp Image 2026-05-29 at 10 23 48 AM" src="https://github.com/user-attachments/assets/2065928c-6893-46dc-8a5b-c3aca716d746" />
 
-<img width="1285" height="1600" alt="WhatsApp Image 2026-05-26 at 9 09 03 AM" src="https://github.com/user-attachments/assets/3313f69f-0d02-40ba-91b5-4575856a3cdc" />
+
+<img width="1346" height="1600" alt="WhatsApp Image 2026-05-29 at 10 23 48 AM (1)" src="https://github.com/user-attachments/assets/196dd2b9-78bd-431d-9068-bad780e8f23f" />
+
 
 ---
 
